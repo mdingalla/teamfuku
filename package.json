@@ -1,0 +1,25 @@
+{
+  "name": "teamfuku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vendor"
+  ],
+  "author": "Mark Dave Ingalla",
+  "license": "ISC",
+  "dependencies": {
+    "angularjs-toaster": "^2.0.0",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-minify": "0.0.12",
+    "gulp-spsave": "^2.0.1",
+    "map-stream": "0.0.6"
+  }
+}

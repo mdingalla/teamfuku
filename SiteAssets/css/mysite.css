@@ -1,0 +1,84 @@
+#maincontent {
+ min-height:260px;
+ margin-top: -10px;
+}
+
+.full-width
+{
+  min-width: 100%;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.introduction-area
+{
+  position: relative;
+  background-image: url('https://avanade1130-public.sharepoint.com/_layouts/15/guestaccess.aspx?guestaccesstoken=Pwx6LN1fjNRXZoyRBQjzQxvEGrtiFd%2fBlbxz7sl8V20%3d&docid=0f46e228b12114a0a91bfc5c34b5fb259');
+  height: 600px;
+  background-size:cover;
+  background-repeat: no-repeat;
+  image-resolution: snap;
+}
+
+.header-box
+{
+  float: left;
+  display: block;
+  margin-top: 60px;
+  margin-right: 340px;
+  margin-left: 100px;
+}
+
+.header-text
+{
+  font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  /*color: #ff3d00 !important;*/
+  color: #eee !important;
+
+}
+
+
+.header-myname
+{
+  color:white !important;
+}
+.header-greeting
+{
+  font-size: 30px;
+font-weight: 300;
+}
+
+.header-description
+{
+  font-size:40px;
+  font-weight: 300;
+}
+
+.header-skills
+{
+  font-size: 36px;
+  font-weight: 400;
+  color: #fb7600;
+}
+
+  .header-skills li
+  {
+    padding-left: 10px;
+  }
+
+.section-area
+{
+  min-height: 620px;
+}
+
+.section-area .row-fluid
+{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  overflow: hidden;
+}
+
+.stickyfooter
+{
+  display: none;
+}
